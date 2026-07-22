@@ -1,2 +1,13 @@
-# base-apparel-coming-soon-master
-A modern and responsive coming soon landing page built with HTML, CSS, and JavaScript.
+# Base Apparel Coming Soon
+
+A responsive landing page built as part of a Frontend Mentor challenge.
+
+## 🚀 Technologies
+- HTML
+- CSS
+- JavaScript
+
+## 🔗 Live Demo
+
+
+## 📸 Screenshot
